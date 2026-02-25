@@ -1,2 +1,2 @@
-# Clase-2-CETAV
+# Clases-CETAV
 Practica - Introducción a la Programación
